@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WychWitch also known as wych(witch)
 - 👀 I’m interested in programming and game development, specifically C#
 - 🌱 I’m currently learning godot and full scripting
+- ☕ [Here's my kofi!](https://ko-fi.com/wychwitch)
 
 <!---
 WychWitch/WychWitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
