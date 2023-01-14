@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wychwitch also known as wych(witch)
-- 👀 I’m interested in programming and game development, specifically C#
+- 👀 I’m interested in programming and game development, specifically Rust
 - 🌱 I’m currently learning godot and full scripting
 - ☕ [Here's my kofi!](https://ko-fi.com/wychwitch)
 
